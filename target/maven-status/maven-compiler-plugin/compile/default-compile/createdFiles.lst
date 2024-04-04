@@ -1,0 +1,8 @@
+com\smart\config\MyConfig.class
+com\smart\SmartcontactmanagerApplication.class
+com\smart\dao\UserRepository.class
+com\smart\helper\Messages.class
+com\smart\controller\HomeController.class
+com\smart\helper\Message.class
+com\smart\entities\User.class
+com\smart\entities\Contact.class
